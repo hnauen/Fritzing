@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 18.1.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" baseProfile="tiny" id="schematic_1_"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="82.5px" height="102.7px"
+	 viewBox="-166.5 321.5 82.5 102.7" xml:space="preserve">
+<rect x="-152.2" y="331.9" fill="#FFFFFF" stroke="#000000" stroke-width="0.3175" stroke-linecap="round" width="56.7" height="82.2"/>
+<line id="connector29pin" fill="none" stroke="#787878" stroke-width="0.2469" stroke-linecap="round" x1="-166.5" y1="352.2" x2="-152.1" y2="352.2"/>
+<text transform="matrix(1 0 0 1 -150.8508 352.8664)" fill="#8C8C8C" font-family="'DroidSans'" font-size="3.5">L OUT +</text>
+<rect id="connector29terminal" x="-152.8" y="351.8" fill="none" width="0.7" height="0.7"/>
+<line id="connector32pin" fill="none" stroke="#787878" stroke-width="0.2469" stroke-linecap="round" x1="-166.5" y1="359.4" x2="-152.1" y2="359.4"/>
+<text transform="matrix(1 0 0 1 -150.8508 360.0672)" fill="#8C8C8C" font-family="'DroidSans'" font-size="3.5">L OUT -</text>
+<rect id="connector32terminal" x="-152.8" y="359" fill="none" width="0.7" height="0.7"/>
+<text transform="matrix(1 0 0 1 -150.8511 375.142)" fill="#8C8C8C" font-family="'DroidSans'" font-size="3.5">GND</text>
+<rect id="connector31terminal" x="-152.8" y="366.2" fill="none" width="0.7" height="0.7"/>
+<text transform="matrix(1 0 0 1 -150.8508 381.6675)" fill="#8C8C8C" font-family="'DroidSans'" font-size="3.5">5V</text>
+<rect id="connector35terminal" x="-152.8" y="380.6" fill="none" width="0.7" height="0.7"/>
+<rect id="connector33terminal" x="-124.2" y="423.8" fill="none" width="0.7" height="0.7"/>
+<rect id="connector30terminal" x="-131.4" y="315.8" fill="none" width="0.7" height="0.7"/>
+<rect id="connector34terminal" x="-117" y="315.8" fill="none" width="0.7" height="0.7"/>
+<text id="label" transform="matrix(1 0 0 1 -128.5285 364.0833)" font-family="'DroidSans'" font-size="4.25">GF1002</text>
+<text transform="matrix(1 0 0 1 -127.4837 370.6168)" font-family="'DroidSans'" font-size="4.25">6</text>
+<text transform="matrix(1 0 0 1 -125.1429 370.6168)" font-family="'DroidSans'" font-size="4.25"> </text>
+<text transform="matrix(1 0 0 1 -124.0389 370.6168)" font-family="'DroidSans'" font-size="4.25">W</text>
+<text transform="matrix(1 0 0 1 -120.368 370.6168)" font-family="'DroidSans'" font-size="4.25">a</text>
+<text transform="matrix(1 0 0 1 -118.1121 370.6168)" font-family="'DroidSans'" font-size="4.25">t</text>
+<text transform="matrix(1 0 0 1 -116.6302 370.6168)" font-family="'DroidSans'" font-size="4.25">t</text>
+<text id="label_2_" transform="matrix(1 0 0 1 -127.5086 375.1514)" font-family="'DroidSans'" font-size="4.25">Stereo</text>
+<text id="label_3_" transform="matrix(1 0 0 1 -126.9013 379.6849)" font-family="'DroidSans'" font-size="4.25">Audio</text>
+<text id="label_4_" transform="matrix(1 0 0 1 -127.3583 384.2184)" font-family="'DroidSans'" font-size="4.25">Power</text>
+<text id="label_5_" transform="matrix(1 0 0 1 -130.1115 388.7504)" font-family="'DroidSans'" font-size="4.25">Amplifier</text>
+<rect id="connector29terminal_1_" x="-152.8" y="366.2" fill="none" width="0.7" height="0.7"/>
+<line id="connector32pin_1_" fill="none" stroke="#787878" stroke-width="0.2469" stroke-linecap="round" x1="-166.5" y1="373.8" x2="-152.1" y2="373.8"/>
+<rect id="connector32terminal_1_" x="-152.8" y="373.4" fill="none" width="0.7" height="0.7"/>
+<rect id="connector31terminal_1_" x="-152.8" y="380.6" fill="none" width="0.7" height="0.7"/>
+<line id="connector29pin_1_" fill="none" stroke="#787878" stroke-width="0.2469" stroke-linecap="round" x1="-166.5" y1="337.8" x2="-152.1" y2="337.8"/>
+<rect id="connector29terminal_2_" x="-152.8" y="337.4" fill="none" width="0.7" height="0.7"/>
+<line id="connector32pin_2_" fill="none" stroke="#787878" stroke-width="0.2469" stroke-linecap="round" x1="-166.5" y1="345" x2="-152.1" y2="345"/>
+<rect id="connector32terminal_2_" x="-152.8" y="344.6" fill="none" width="0.7" height="0.7"/>
+<rect id="connector31terminal_2_" x="-152.8" y="351.8" fill="none" width="0.7" height="0.7"/>
+<line id="connector29pin_3_" fill="none" stroke="#787878" stroke-width="0.2469" stroke-linecap="round" x1="-166.5" y1="395.4" x2="-152.1" y2="395.4"/>
+<rect id="connector29terminal_4_" x="-152.8" y="395" fill="none" width="0.7" height="0.7"/>
+<line id="connector32pin_4_" fill="none" stroke="#787878" stroke-width="0.2469" stroke-linecap="round" x1="-166.5" y1="402.6" x2="-152.1" y2="402.6"/>
+<rect id="connector32terminal_4_" x="-152.8" y="402.2" fill="none" width="0.7" height="0.7"/>
+<line id="connector29pin_2_" fill="none" stroke="#787878" stroke-width="0.2469" stroke-linecap="round" x1="-166.5" y1="381" x2="-152.1" y2="381"/>
+<rect id="connector29terminal_3_" x="-152.8" y="380.6" fill="none" width="0.7" height="0.7"/>
+<rect id="connector32terminal_3_" x="-152.8" y="387.8" fill="none" width="0.7" height="0.7"/>
+<rect id="connector31terminal_3_" x="-152.8" y="395" fill="none" width="0.7" height="0.7"/>
+<rect id="connector32terminal_5_" x="-152.8" y="402.6" fill="none" width="0.7" height="0.7"/>
+<rect id="connector31terminal_4_" x="-152.8" y="409.8" fill="none" width="0.7" height="0.7"/>
+<line id="connector29pin_4_" fill="none" stroke="#787878" stroke-width="0.2469" stroke-linecap="round" x1="-166.5" y1="409.8" x2="-152.1" y2="409.8"/>
+<rect id="connector29terminal_5_" x="-152.8" y="409.8" fill="none" width="0.7" height="0.7"/>
+<text transform="matrix(1 0 0 1 -150.8511 346.2414)" fill="#8C8C8C" font-family="'DroidSans'" font-size="3.5">R OUT +</text>
+<text transform="matrix(1 0 0 1 -150.8513 339.0988)" fill="#8C8C8C" font-family="'DroidSans'" font-size="3.5">R OUT -</text>
+<text transform="matrix(1 0 0 1 -150.8516 396.4175)" fill="#8C8C8C" font-family="'DroidSans'" font-size="3.5">L INPUT</text>
+<text transform="matrix(1 0 0 1 -150.8516 403.7925)" fill="#8C8C8C" font-family="'DroidSans'" font-size="3.5">G INPUT</text>
+<text transform="matrix(1 0 0 1 -150.8516 410.4669)" fill="#8C8C8C" font-family="'DroidSans'" font-size="3.5">R INPUT</text>
+</svg>
